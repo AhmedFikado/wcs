@@ -1,1 +1,1 @@
-# wcs
+Petit challenge WCS.
